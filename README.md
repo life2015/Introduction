@@ -20,3 +20,7 @@ Another website I love is StackOverflow,I love the time when we talk about our q
 ![](http://b.hiphotos.baidu.com/baike/w%3D268/sign=00d8a78734d3d539c13d08c50287e927/8c1001e93901213f713cc9a556e736d12f2e95b8.jpg)  
 ### I love English
 I live in a world full of English, IDE is English, Offical doc is English, Github is English and so is Stackoverflow, I think it doesn't matter,and I am more and more familiar with them.
+### My repositories
+[NewsDemo,a app of wepeiyang news](https://github.com/life2015/NewsDemo)  
+[TwtNews ,refacored the code of NewsDemo,MVP](https://github.com/life2015/TwtNews)
+[One ,a simple unoffical app of ONE](https://github.com/life2015/One)
