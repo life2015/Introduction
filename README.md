@@ -2,7 +2,8 @@
 
 ##What I loved
 - During my spare time, I learn Java and Android programing through Google official course. And I am a member of TwTstudio's mobile developing team. According to the plan of our team, I will develop a module of Weipeiyang.I spend my spare time to discover some interesting software and great repositories on GitHub. Of course, I also have a GitHub account. I love GitHub very much because it always gives me inspiration.
-- SoftWare,it is open, living, and fascinating .Many people think it is really hard and tried to develop software. But I feel I just do the things I loved ,and it is software in my world.
+- SoftWare,it is open, living, and fascinating .Many people think it is really hard and tried to develop software. But I feel I just do the things I loved ,and it is software in my world.  
+ ![TwT](https://raw.githubusercontent.com/life2015/Rawfiles/master/156531380878613281.png)
 
 ##Strengths
 ### My habits
