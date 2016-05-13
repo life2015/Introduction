@@ -13,7 +13,8 @@ According to my habits when developing software, I think I like to do everything
 ![Mvp](https://sfault-image.b0.upaiyun.com/322/908/3229080209-56fde71591288_articlex)
 ### I love to try new things 
  I also like to try the new things in my programing, such as realm database, I think it is a great replace of sqlite3 on our mobile platform, one more interesting thing is Xposed framework, it can hook the methods of applications of the android . It can do many things beyond my imagination. So I give it a try to learn Xposed framework’s module programming through Google and GitHub. I think trying new things always make me excited, and I really like it.
-![Realm](http://static1.squarespace.com/static/53fc4022e4b04305cfdf67b8/t/540ace3be4b08734f6c16e93/1409994300336/?format=750w)  
+![Realm](http://static1.squarespace.com/static/53fc4022e4b04305cfdf67b8/t/540ace3be4b08734f6c16e93/1409994300336/?format=750w) 
+![Realm](http://static1.squarespace.com/static/53fc4022e4b04305cfdf67b8/t/540ac6f9e4b042802a348152/1409992444050/?format=750w)  
 [Realm vs Sqlite3](http://sebastiandobrincu.com/blog/5-reasons-why-you-should-choose-realm-over-coredata)
 ### I rasie my questions here
 Another website I love is StackOverflow,I love the time when we talk about our questions together. Every time I rasie a question here, the answer will come into my sight after a few minutes.The atmosphere here is attracting.  
